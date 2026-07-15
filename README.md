@@ -27,23 +27,15 @@ Project Goals
 * Provide an intuitive, polished user experience.
 * Continuously refine the game through testing and feedback from experienced players.
 
-Team
+Team - I'm not married to this structure. I like teamwork, not titles. that said, here's a shot at some team roles. 
 
-Project Lead
+Project Lead:  Wayne Gisler
 
-* Wayne Gisler
+Strategy Lead:  Rodney Gisler
 
-Strategy Lead
+Innovation & Testing Lead:  Jarren Gordon
 
-* Rodney Gisler
-
-Innovation & Testing Lead
-
-* Jarren Gordon
-
-AI Design Partner
-
-* ChatGPT
+AI Design Partner:  ChatGPT
 
 Current Phase
 
