@@ -6,7 +6,6 @@ Vision. To create the definitive digital home for the game of 42—a platform th
 Mission. Our mission is to build an app that serious 42 players are proud to recommend and new players are excited to learn from.  Every recommendation, every AI decision, and every coaching moment should be explainable through the strategic principles of the game. Every feature should strengthen the game, not distract from it.
 
 Guiding Principles
-
 * Respect the traditions and strategy of 42.
 * Prioritize gameplay over unnecessary features.
 * Design for beginners without compromising the experience for experts.
@@ -15,7 +14,6 @@ Guiding Principles
 * The AI will never rely on hidden information unavailable to a human player.
 
 Project Goals
-
 * Create an authentic digital version of 42.
 * Develop intelligent tools that help players improve.
 * Support competitive and casual play.
@@ -32,9 +30,8 @@ Innovation & Testing Lead:  Jarren Gordon
 
 Knowledge Engineering and AI Design Partner:  ChatGPT
 
-Current Phase
 
-Project planning, game design, and requirements gathering.
+Current Phase. Project planning, game design, and requirements gathering.
 
 Long-Term Vision. Build an app with 5 Parts.
 
