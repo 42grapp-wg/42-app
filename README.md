@@ -18,6 +18,7 @@ Guiding Principles
 * Design for beginners without compromising the experience for experts.
 * Make learning, practice, and competition equally enjoyable.
 * Build every feature with fairness, clarity, and long-term value in mind.
+* The AI will never rely on hidden information unavailable to a human player.
 
 Project Goals
 
