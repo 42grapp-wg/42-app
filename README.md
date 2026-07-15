@@ -36,7 +36,7 @@ Strategy Lead:  Rodney Gisler
 
 Innovation & Testing Lead:  Jarren Gordon
 
-AI Design Partner:  ChatGPT
+Knowledge Engineering and AI Design Partner:  ChatGPT
 
 Current Phase
 
