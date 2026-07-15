@@ -31,15 +31,15 @@ Team
 
 Project Lead
 
-* Your Name
+* Wayne Gisler
 
 Strategy Lead
 
-* Rodney
+* Rodney Gisler
 
 Innovation & Testing Lead
 
-* Jerrand Gordon
+* Jarren Gordon
 
 AI Design Partner
 
