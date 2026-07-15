@@ -69,4 +69,4 @@ Phase 4 — The Game Engine. This is the mechanics:
 
 This is mostly engineering.
 
-Phase 5 — The Mentor. This is what excites me most.  After every decision, the app can answer “Why?”. Not because it searched millions of hands.  Because it knows the Canon.
+Phase 5 — The Mentor. The Mentor transforms expert reasoning into personalized coaching. It explains bidding decisions, opening leads, trick play, and endgame strategy in language appropriate to the player’s experience level. After every decision, the app can answer “Why?”. Not because it searched millions of hands.  Because it knows the Canon.
