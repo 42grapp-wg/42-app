@@ -27,7 +27,7 @@ Project Goals
 * Provide an intuitive, polished user experience.
 * Continuously refine the game through testing and feedback from experienced players.
 
-Team - I'm not married to this structure. I like teamwork, not titles. that said, here's a shot at some team roles. 
+Team - I'm not married to this structure. I like teamwork, not titles. We should all have a vested interest in the entire product. That said, here's a shot at some team roles. 
 
 Project Lead:  Wayne Gisler
 
