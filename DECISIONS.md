@@ -1,5 +1,7 @@
 42GR Decisions Log
 
+Status:  Living Document (last updated 7/14/2026)
+
 Purpose. This document records significant decisions made during the development of 42GR.
 
 The purpose of this log is to preserve:
