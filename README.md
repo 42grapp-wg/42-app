@@ -3,7 +3,7 @@
 
 Vision
 
-To create the definitive digital experience for the game of 42—a platform that faithfully preserves the traditions of the game while making it more accessible, enjoyable, and competitive for players of every skill level.
+To create the definitive digital home for the game of 42—a platform that preserves its traditions, develops new generations of players, and provides the most authentic and strategically rich way to play, learn, and compete.
 
 Mission
 
