@@ -1,15 +1,9 @@
 # 42-app
-42 App
+Overview. What Makes 42GR Different?  it is built around the belief that expert 42 is not a collection of memorized rules, but a way of reasoning.  Rather than relying on hidden information or brute-force search, the app models the thought process of experienced players using only the information available at the table.  The result is an opponent that plays fairly, a coach that explains its decisions, and a learning experience that helps players develop genuine strategic understanding.
 
-Vision
+Vision. To create the definitive digital home for the game of 42—a platform that preserves its traditions, develops new generations of players, and provides the most authentic and strategically rich way to play, learn, and compete.
 
-To create the definitive digital home for the game of 42—a platform that preserves its traditions, develops new generations of players, and provides the most authentic and strategically rich way to play, learn, and compete.
-
-Mission
-
-Our mission is to build an app that serious 42 players are proud to recommend and new players are excited to learn from.  Every recommendation, every AI decision, and every coaching moment should be explainable through the strategic principles of the game.
-
-Every feature should strengthen the game, not distract from it.
+Mission. Our mission is to build an app that serious 42 players are proud to recommend and new players are excited to learn from.  Every recommendation, every AI decision, and every coaching moment should be explainable through the strategic principles of the game. Every feature should strengthen the game, not distract from it.
 
 Guiding Principles
 
