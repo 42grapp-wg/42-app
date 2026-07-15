@@ -56,7 +56,7 @@ Phase 2 - Knowledge Encoding. This is where we translate the Canon into formal c
 * Uncertainty Map
 * Table Memory
 
-Phase 3 — The Reasoning Engine. This is where we translate the Canon into software.  Not “AI” in the buzzword sense.  An engine that reasons exactly the way we’ve been talking.  We are not simply building another card game app.  We are building a platform that honors the game of 42, encourages players to improve, and becomes the standard by which future digital versions of the game are measured.
+Phase 3 — The Reasoning Engine. This is where we translate the Canon into software.  An engine that reasons from the Canon rather than relying solely on statistical search. We are not simply building another card game app.  We are building a platform that honors the game of 42, encourages players to improve, and becomes the standard by which future digital versions of the game are measured.
 
 Phase 4 — The Game Engine. This is the mechanics:
 * Deal dominoes.
