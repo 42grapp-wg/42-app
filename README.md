@@ -1,50 +1,56 @@
 # 42-app
-##  Overview & Credits
+42 App
 
-Design and development space for a competitive 42 game system with evolving rules, scoring logic, and strategy testing. 42 App developed collaboratively by Wayne Gisler, Rodney Gisler, and Jerran Gordon to fund the Gisler Reunion.
+Vision
 
-## Vision
+To create the definitive digital experience for the game of 42—a platform that faithfully preserves the traditions of the game while making it more accessible, enjoyable, and competitive for players of every skill level.
 
-The 42 App is designed to be the definitive digital experience for the game of 42. Our goal is to build an app that is faithful to the traditions of the game while introducing features that make learning, playing, improving, and competing more enjoyable.
+Mission
 
-## Mission
+Our mission is to build an app that serious 42 players are proud to recommend and new players are excited to learn from.
 
-We are creating an app by players, for players.
+Every feature should strengthen the game, not distract from it.
 
-Every feature should answer one question:
+Guiding Principles
 
-"Does this make playing 42 more enjoyable without changing what makes the game great?"
+* Respect the traditions and strategy of 42.
+* Prioritize gameplay over unnecessary features.
+* Design for beginners without compromising the experience for experts.
+* Make learning, practice, and competition equally enjoyable.
+* Build every feature with fairness, clarity, and long-term value in mind.
 
-## Project Team
+Project Goals
+
+* Create an authentic digital version of 42.
+* Develop intelligent tools that help players improve.
+* Support competitive and casual play.
+* Provide an intuitive, polished user experience.
+* Continuously refine the game through testing and feedback from experienced players.
+
+Team
 
 Project Lead
 
-- Wayne Gisler
+* Your Name
 
-Game Strategy
+Strategy Lead
 
-- Rodney Gisler
+* Rodney
 
-Game Testing and Strategy
+Innovation & Testing Lead
 
-- Jerrand Gordon
+* Jerrand Gordon
 
 AI Design Partner
 
-- ChatGPT
+* ChatGPT
 
-## Current Status
+Current Phase
 
-Planning and game design.
+Project planning, game design, and requirements gathering.
 
-## Next Milestones
+Long-Term Vision
 
-- Define complete game rules
+We are not simply building another card game app.
 
-- Design scoring system
-
-- Build user interface concepts
-
-- Develop multiplayer experience
-
-- Test with experienced 42 players
+We are building a platform that honors the game of 42, encourages players to improve, and becomes the standard by which future digital versions of the game are measured.
