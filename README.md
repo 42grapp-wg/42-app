@@ -7,7 +7,7 @@ To create the definitive digital home for the game of 42—a platform that prese
 
 Mission
 
-Our mission is to build an app that serious 42 players are proud to recommend and new players are excited to learn from.
+Our mission is to build an app that serious 42 players are proud to recommend and new players are excited to learn from.  Every recommendation, every AI decision, and every coaching moment should be explainable through the strategic principles of the game.
 
 Every feature should strengthen the game, not distract from it.
 
