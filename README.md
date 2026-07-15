@@ -42,13 +42,23 @@ Current Phase
 
 Project planning, game design, and requirements gathering.
 
-Long-Term Vision. Build an app with 4 Parts.
+Long-Term Vision. Build an app with 5 Parts.
 
 Phase 1 — Canon Discovery. This is the knowledge base.  It’s the hardest part because it has to come from experts.Without this, everything else is guesswork.
 
-Phase 2 — The Reasoning Engine. This is where we translate the Canon into software.  Not “AI” in the buzzword sense.  An engine that reasons exactly the way we’ve been talking.  We are not simply building another card game app.  We are building a platform that honors the game of 42, encourages players to improve, and becomes the standard by which future digital versions of the game are measured.
+Phase 2 - Knowledge Encoding. This is where we translate the Canon into formal concepts before writing software.  It’s still design work, but much closer to engineering.
 
-Phase 3 — The Game Engine. This is the mechanics:
+* Hand Recognition
+* Contract Recognition
+* Structural Risk
+* Control
+* Pulling Count
+* Uncertainty Map
+* Table Memory
+
+Phase 3 — The Reasoning Engine. This is where we translate the Canon into software.  Not “AI” in the buzzword sense.  An engine that reasons exactly the way we’ve been talking.  We are not simply building another card game app.  We are building a platform that honors the game of 42, encourages players to improve, and becomes the standard by which future digital versions of the game are measured.
+
+Phase 4 — The Game Engine. This is the mechanics:
 * Deal dominoes.
 * Bidding.
 * Trick play.
@@ -59,4 +69,4 @@ Phase 3 — The Game Engine. This is the mechanics:
 
 This is mostly engineering.
 
-Phase 4 — The Mentor. This is what excites me most.  After every decision, the app can answer “Why?”. Not because it searched millions of hands.  Because it knows the Canon.
+Phase 5 — The Mentor. This is what excites me most.  After every decision, the app can answer “Why?”. Not because it searched millions of hands.  Because it knows the Canon.
