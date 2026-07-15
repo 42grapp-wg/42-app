@@ -49,7 +49,8 @@ Current Phase
 
 Project planning, game design, and requirements gathering.
 
-Long-Term Vision. Build an app with 4 Parts. 
+Long-Term Vision. Build an app with 4 Parts.
+
 Phase 1 — The Canon. This is the knowledge base.  It’s the hardest part because it has to come from experts.Without this, everything else is guesswork.
 
 Phase 2 — The Reasoning Engine. This is where we translate the Canon into software.  Not “AI” in the buzzword sense.  An engine that reasons exactly the way we’ve been talking.  We are not simply building another card game app.  We are building a platform that honors the game of 42, encourages players to improve, and becomes the standard by which future digital versions of the game are measured.
